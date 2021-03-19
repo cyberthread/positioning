@@ -1,0 +1,93 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+/* TYPOGRAPHY */
+
+html {
+    font-family: 'Muli', Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4em;
+    
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4rem;
+    margin: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 1rem 0 1rem;
+    color: #455153;
+}
+
+h3 {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    color: #455153;
+}
+
+/* IMAGES */
+img {
+    display: block;
+}
+
+/* LAYOUT */
+header, footer {
+    background-color: #455153;
+    color: white;
+    padding: 2rem 0;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+main {
+    padding: 0 1rem 1rem 1rem;
+}
+
+article {
+    margin-bottom: 2rem;
+    padding-bottom: 3rem;
+    background-color: #eeeeee;
+}
+
+.category {
+    background-color: #EDEEED;
+    color:#455153;
+    padding: .5rem;
+    display: inline-block;
+}
+
+.description {
+    padding: 1rem;
+}
+
+.description p {
+    margin-bottom: .5rem;
+}
+
+footer p {
+     margin: 1rem;
+}
+
+
+/* BUTTONS */
+
+button {
+    padding: .5rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    background-color: #455153;
+    color: white;
+}
