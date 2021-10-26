@@ -15,9 +15,11 @@ In this exercise you will:
 	- Place the tea category in the top right of the module; on top of the image.
 		- _Hint: for positioning to work, make sure the parent element of the modules or a further descendant explicitly has `position: relative;` set on it._
 	- Place the button in the bottom right of the module; below all of the content. Note that this layout could be accomplished with floats but you need to implement with positioning and make sure the button does not overlap any text (even when the screen is zoomed in 200%).
+	- - _Hint: To accomplish this you need to add space to the bottom of the product module._
 - **Code the Page Header**: Although it may not be clear in the prototypes, the designer would like the site identifier (Teatastic) visible at all times at that top of the page even when the page is scrolled. This means that the products and other content would scroll behind the header at the top of the page.
 	- The header should span the full width of the viewport (Browser window).
-	- When at the very top of the page you should be able to see all content. You will need to add some space below the header for that to happen.
+	- When at the very top of the page you should be able to see all content. 
+		- _Hint: You will need to add some space above main for that to happen._
 - **Make it live**: Publish your finished product (just make sure you have valid and accessible code first).
 
 ## Submission on Blackboard
