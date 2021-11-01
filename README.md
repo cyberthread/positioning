@@ -12,7 +12,7 @@ In this exercise you will:
 	- Most of the page layout has been coded for you, your focus will be the layout of the product modules.
 - **Code the Product Module**: This will require you to do three things:
 	- Constrain the image to the module and make the images the full width of the module.
-	- Place the tea category in the top right of the module; on top of the image.
+	- Place the tea category in the top left of the module; on top of the image.
 		- _Hint: for positioning to work, make sure the parent element of the modules or a further descendant explicitly has `position: relative;` set on it._
 	- Place the button in the bottom right of the module; below all of the content. Note that this layout could be accomplished with floats but you need to implement with positioning and make sure the button does not overlap any text (even when the screen is zoomed in 200%).
 	- - _Hint: To accomplish this you need to add space to the bottom of the product module._
