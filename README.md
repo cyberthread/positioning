@@ -22,10 +22,10 @@ In this exercise you will:
 		- _Hint: You will need to add some space above main for that to happen._
 - **Make it live**: Publish your finished product (just make sure you have valid and accessible code first).
 
-## Submission on Blackboard
-- URL to live website
-- Screenshot of CSS Validation
-- Screenshot of HTML Validation
+## Verify the code meets standards
+- CSS Validation
+- HTML Validation
+- Accessibility checker (WAVE or AXE)
 
 ## Resources
 - [MDN CSS:Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
